@@ -1,6 +1,6 @@
 ## Cross-Chain Bridge: Moving ERC20 Tokens from Goerli to Mumbai via fxPortal
 
-# Welcome to the ERC20 Goerli to Mumbai Bridge project, showcasing the utilization of fxPortal contracts for seamless ERC20 token transfers between the Goerli and Mumbai networks.
+ Welcome to the ERC20 Goerli to Mumbai Bridge project, showcasing the utilization of fxPortal contracts for seamless ERC20 token transfers between the Goerli and Mumbai networks.
 
 # Bridging Process:
 
